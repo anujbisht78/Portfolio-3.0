@@ -197,7 +197,7 @@ export const projects = [
     ],
     category: "python",
     github: "https://github.com/anujbisht78/Flappy-Bird-Game",
-    Link: "https://www.linkedin.com/posts/anujbisht78_python-pythonprogramming-flappybird-activity-7170703629971116032-HjEg?utm_source=share&utm_medium=member_desktop",
+    webapp: "https://www.linkedin.com/posts/anujbisht78_python-pythonprogramming-flappybird-activity-7170703629971116032-HjEg?utm_source=share&utm_medium=member_desktop",
   },
   {
     id: 9,
