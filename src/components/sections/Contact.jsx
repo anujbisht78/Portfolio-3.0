@@ -72,7 +72,7 @@ const Contact = () => {
           target="_blank"
           href="mailto:anujbisht3540@gmail.com"
         >
-          Mail me
+          Mail Me
         </ContactLink>
       </Wrapper>
     </Container>
