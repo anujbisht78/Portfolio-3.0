@@ -185,23 +185,19 @@ export const education = [
 export const projects = [
   {
     id: 11,
-    title: "DecisionHub",
-    date: "Jan 2024 - Dec 2023",
+    title: "Flappy Bird Game",
+    date: "Aug 2022 - Aug 2022",
     description:
-      "A Rule Builder application “Decision Hub” that empowers Business Analysts to create, save, and visualize decision strategies. Provide a no-code rule writing experience and visual representation to test these rules in real-time and observe the calculations at each step.",
+      "Flappy Bird is a classic side-scrolling mobile game where the player controls a bird, guiding it through a series of obstacles made up of pipes. The objective is to navigate the bird through the gaps between the pipes without touching them. The bird automatically moves forward, and the player can make it flap its wings to gain altitude and avoid crashing into the pipes. The game is known for its simple mechanics, addictive gameplay, and challenging difficulty. Players aim to achieve the highest score possible by flying through as many pipes as they can without colliding.",
     image:
-      "https://github.com/rishavchanda/DecisionHub/raw/master/assets/testRule.jpg",
+      "https://github.com/anujbisht78/Flappy-Bird-Game/blob/main/sprites/raw/main.png",
     tags: [
-      "React Js",
-      "PostgressSQL",
-      "Node Js",
-      "Express Js",
-      "Redux",
-      "React Flow",
+      "Python",
+      "Pygame",
     ],
-    category: "web app",
-    github: "https://github.com/rishavchanda/DecisionHub",
-    webapp: "https://decisionhub.netlify.app/",
+    category: "python",
+    github: "https://github.com/anujbisht78/Flappy-Bird-Game",
+    Link: "https://www.linkedin.com/posts/anujbisht78_python-pythonprogramming-flappybird-activity-7170703629971116032-HjEg?utm_source=share&utm_medium=member_desktop",
   },
   {
     id: 9,
