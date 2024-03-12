@@ -190,7 +190,7 @@ export const projects = [
     description:
       "Flappy Bird is a classic side-scrolling mobile game where the player controls a bird, guiding it through a series of obstacles made up of pipes. The objective is to navigate the bird through the gaps between the pipes without touching them. The bird automatically moves forward, and the player can make it flap its wings to gain altitude and avoid crashing into the pipes. The game is known for its simple mechanics, addictive gameplay, and challenging difficulty. Players aim to achieve the highest score possible by flying through as many pipes as they can without colliding.",
     image:
-      "https://github.com/anujbisht78/Flappy-Bird-Game/blob/main/sprites/raw/main.png",
+      "https://ibb.co/hW1nYGK",
     tags: [
       "Python",
       "Pygame",
