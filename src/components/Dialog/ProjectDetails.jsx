@@ -239,7 +239,7 @@ const ProjectDetails = ({ openModal, setOpenModal }) => {
               View Code
             </Button>
             <Button href={project?.webapp} target="new">
-              View Live App
+              View Link
             </Button>
           </ButtonGroup>
         </Wrapper>
