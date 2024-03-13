@@ -220,41 +220,41 @@ export const projects = [
     github: "https://github.com/anujbisht78/SMS-spam-Detection",
     webapp: "https://www.linkedin.com/posts/anujbisht78_machinelearning-datascience-nltk-activity-7173168627888709632-2OIw?utm_source=share&utm_medium=member_android",
   },
-  {
-    id: 0,
-    title: "Podstream",
-    date: "Apr 2023 - May 2023",
-    description:
-      "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
-    image:
-      "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
-    tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
-    category: "web app",
-    github: "https://github.com/rishavchanda/Podstream",
-    webapp: "https://podstream.netlify.app/",
-    member: [
-      {
-        name: "Rishav Chanda",
-        img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-        linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-        github: "https://github.com/rishavchanda/",
-      },
-      {
-        name: "Upasana Chaudhuri",
-        img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-        linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-        github: "https://github.com/upasana0710",
-      },
-    ],
-  },
+  // {
+  //   id: 0,
+  //   title: "Podstream",
+  //   date: "Apr 2023 - May 2023",
+  //   description:
+  //     "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
+  //   image:
+  //     "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
+  //   tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
+  //   category: "web app",
+  //   github: "",
+  //   webapp: "",
+  //   member: [
+  //     {
+  //       name: "Rishav Chanda",
+  //       img: "",
+  //       linkedin: "",
+  //       github: "",
+  //     },
+  //     {
+  //       name: "Upasana Chaudhuri",
+  //       img: "",
+  //       linkedin: "",
+  //       github: "",
+  //     },
+  //   ],
+  // },
   {
     id: 4,
     title: "Netflix Recommender System",
     date: "Sep 2023 - oct 2023",
     description:
-      "Designed and developed the Vexa project, a project management app that helps users and teams stay organized and on track. Implemented key features such as task tracking, team collaboration, and time tracking to improve productivity and project outcomes and also invite team/project members. The plan is to add a community of users where they can find developers and other team members and chat system implementation.",
+      "The Netflix Recommender System is a project aimed at enhancing user experience on the popular streaming platform by providing personalized movie and TV show recommendations. Using machine learning algorithms such as collaborative filtering, the system analyzes user preferences and viewing history to suggest content tailored to individual tastes. Integrated with Flask for backend functionality and HTML, CSS, and JavaScript for the frontend, this system offers a seamless and intuitive interface for users to discover new and relevant content based on their interests and viewing habits.",
     image:
-      "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
+      "https://i.im.ge/2024/03/13/RIctFz.recommend.jpeg",
     tags: [
       "Python",
       "Machine Learning",
@@ -263,9 +263,9 @@ export const projects = [
       "CSS",
       "Java Script",
     ],
-    category: "web app",
-    github: "https://github.com/rishavchanda/Project-Management-App",
-    webapp: "https://vexa-app.netlify.app/",
+    category: "machine learning",
+    github: "https://github.com/anujbisht78/Netflix-Recommender-Sytem",
+    webapp: "https://www.linkedin.com/posts/anujbisht78_python-pythonprogramming-machinelearning-activity-7173528260524322816-FupY?utm_source=share&utm_medium=member_desktop",
   },
   // {
   //   id: 2,
