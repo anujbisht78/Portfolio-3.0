@@ -234,7 +234,7 @@ export const projects = [
   //   webapp: "",
   //   member: [
   //     {
-  //       name: "Rishav Chanda",
+  //       name: "",
   //       img: "",
   //       linkedin: "",
   //       github: "",
