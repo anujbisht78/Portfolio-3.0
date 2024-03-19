@@ -200,6 +200,25 @@ export const projects = [
     webapp: "https://www.linkedin.com/posts/anujbisht78_python-pythonprogramming-flappybird-activity-7170703629971116032-HjEg?utm_source=share&utm_medium=member_desktop",
   },
   {
+    id: 12,
+    title: "SPIDER - Virtual Assistant",
+    date: "Nov 2023 - Jan 2024",
+    description:
+      "SPIDER is an advanced virtual assistant powered by Python, OpenCV for face recognition, and PyQT5 for its intuitive GUI. Fluent in both English and Hindi, SPIDER offers personalized interactions, recognizing authorized users instantly. From managing tasks like playing music, handling operating systems, and sending messages, to engaging in interactive games, SPIDER adapts to your needs seamlessly. Its open-ended framework allows for easy customization, promising a versatile and secure AI companion for enhancing digital experiences.",
+    image:
+      "https://i.im.ge/2024/03/19/R3JUpa.Jarvis-Gui-1.gif",
+    tags: [
+      "Python",
+      "PyQT5",
+      "OpenCV",
+      "Hugging Face",
+      "Open AI",
+    ],
+    category: "python",
+    github: "https://github.com/anujbisht78/SPIDER",
+    webapp: "https://www.linkedin.com/posts/anujbisht78_spider-virtual-voice-activity-7175887197831663617-SKht?utm_source=share&utm_medium=member_desktop",
+  },
+  {
     id: 9,
     title: "SMS-spam Detection",
     date: "Jun 2023 - Jul 2023",
